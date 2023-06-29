@@ -1,0 +1,15 @@
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\bin\Debug\net6.0\EmployeWageComputation.exe
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\bin\Debug\net6.0\EmployeWageComputation.deps.json
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\bin\Debug\net6.0\EmployeWageComputation.runtimeconfig.json
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\bin\Debug\net6.0\EmployeWageComputation.dll
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\bin\Debug\net6.0\EmployeWageComputation.pdb
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.csproj.AssemblyReference.cache
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.AssemblyInfoInputs.cache
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.AssemblyInfo.cs
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.csproj.CoreCompileInputs.cache
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.dll
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\refint\EmployeWageComputation.dll
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.pdb
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\EmployeWageComputation.genruntimeconfig.cache
+C:\RFP 289\EmployeWageComputation\EmployeWageComputation\obj\Debug\net6.0\ref\EmployeWageComputation.dll
